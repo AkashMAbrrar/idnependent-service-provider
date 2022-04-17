@@ -1,4 +1,5 @@
 import Services from '../Services/Services';
+import TopBanner from '../TopBanner/TopBanner';
 import Treatments from './Treatments/Treatments';
 
 const Home = () => {
@@ -6,10 +7,11 @@ const Home = () => {
 
 
     return (
-        <div>
+        <>
+            <TopBanner></TopBanner>
             <Services></Services>
             <Treatments></Treatments>
-        </div>
+        </>
     );
 };
 

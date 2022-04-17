@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Heart Disease",
+        "description": "A buildup of fatty plaques in your arteries, or atherosclerosis (ath-ur-o-skluh-ROE-sis) can damage your blood vessels and heart. Plaque buildup causes narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or stroke.",
+        "img": "https://media.istockphoto.com/photos/illustration-of-heart-medical-concept-picture-id530199842?k=20&m=530199842&s=170667a&w=0&h=ByJH78MFtM6oKcqOEvckRv7YN_C_XLcMuve0mQiPfSU="
+    },
+    {
+        "id": 2,
+        "name": "Infection Effect",
+        "description": "A wound infection occurs when germs, such as bacteria, grow within the damaged skin of a wound. Symptoms can include increasing pain, swelling, and redness. More severe infections may cause nausea, chills, or fever.",
+        "img": "https://tidinstitute.com/wp-content/uploads/2020/07/Untitled-design-47.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lung Disease and Breathing Ptoblem",
+        "description": "When you breathe, your lungs take in oxygen from the air and deliver it to the bloodstream. The cells in your body need oxygen to work and grow. During a normal day, you breathe nearly 25,000 times. People with lung disease have difficulty breathing. Millions of people in the U.S. have lung disease. If all types of lung disease are lumped together",
+        "img": "https://www.narayanahealth.org/blog/wp-content/uploads/2021/07/shutterstock_1642253854.jpg"
+    }
+]

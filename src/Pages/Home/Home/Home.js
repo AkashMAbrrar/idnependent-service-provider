@@ -1,4 +1,5 @@
 import Services from '../Services/Services';
+import Treatments from './Treatments/Treatments';
 
 const Home = () => {
 
@@ -7,6 +8,7 @@ const Home = () => {
     return (
         <div>
             <Services></Services>
+            <Treatments></Treatments>
         </div>
     );
 };

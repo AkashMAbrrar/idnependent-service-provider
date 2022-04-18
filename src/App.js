@@ -3,6 +3,7 @@ import './App.css';
 import Checkout from './Pages/Checkout/Checkout/Checkout';
 import About from './Pages/Home/About/About';
 import Home from './Pages/Home/Home/Home';
+import Blogs from './Pages/Home/Shared/Blogs/Blogs';
 import Footer from './Pages/Home/Shared/Footer/Footer';
 import Header from './Pages/Home/Shared/Header/Header';
 import NotFound from './Pages/Home/Shared/NotFound/NotFound';
@@ -27,6 +28,7 @@ function App() {
             <Checkout></Checkout>
           </RequireAuth>
         }></Route>
+        <Route path='/blog' element={<Blogs></Blogs>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>

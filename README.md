@@ -7,9 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://independent-service-prov-86d09.web.app/](https://independent-service-prov-86d09.web.app/) to view it in your browser.
 
 * This is a single service health care and medication website.
 

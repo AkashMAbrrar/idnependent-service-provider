@@ -11,8 +11,15 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* This is a single service health care and medication website.
+
+* This Website make for those pepole who are poor and wick.
+
+* This is a component base website and responsive.
+
+* This website providing treatments and medicine, And its name Take Care Your Self.
+
+* By this web site we providing digital services and health caring.
 
 ### `npm test`
 
